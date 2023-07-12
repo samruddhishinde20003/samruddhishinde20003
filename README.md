@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samruddhishinde20003
-- 👀 I’m interested in music and coding
+- 💞️ I’m interested in music and coding
 - 🌱 I’m currently learning computer science engineering
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m looking forward to collaborate on various projects and give my best 
 - 📫 How to reach me ...
 
 <!---
